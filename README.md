@@ -1,4 +1,4 @@
-# Aryaman Sharma
+# Aryaman Sharma - Software Engineer
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Email][gmail-shield]][gmail-url]
