@@ -17,13 +17,12 @@ CS @ Purdue (2027) + Psychology Minor → ML Researcher → Building interpretab
 
 ### Core Expertise
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0468F6?style=for-the-badge&logo=tiny&logoColor=white)
-![Psychology](https://img.shields.io/badge/Psychology-ff69b4?style=for-the-badge&logo=tiny&logoColor=white)
 ![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-6A5ACD?style=for-the-badge&logo=tiny&logoColor=white)
 ![Time Series](https://img.shields.io/badge/Time_Series_Analysis-3776AB?style=for-the-badge&logo=tiny&logoColor=white)
 ![AI for Social Good](https://img.shields.io/badge/AI_for_Social_Good-008000?style=for-the-badge&logo=tiny&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-FFD700?style=for-the-badge&logo=tiny&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_(Retrieval_Augmented_Generation)-A52A2A?style=for-the-badge&logo=tiny&logoColor=white)
-
+![Psychology](https://img.shields.io/badge/Psychology-ff69b4?style=for-the-badge&logo=tiny&logoColor=white)
 
 
 ### Engineering Expertise
