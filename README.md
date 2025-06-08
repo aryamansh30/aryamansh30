@@ -22,7 +22,7 @@ CS @ Purdue (2027) + Psychology Minor → ML Researcher → Building interpretab
 ![Time Series](https://img.shields.io/badge/Time_Series_Analysis-3776AB?style=for-the-badge&logo=tiny&logoColor=white)
 ![AI for Social Good](https://img.shields.io/badge/AI_for_Social_Good-008000?style=for-the-badge&logo=tiny&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-000000?style=for-the-badge&logo=tiny&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_(Retrieval_Augmented_Generation)-A52A2A?style=for-the-badge&logo=tiny&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_(Retrieval_Augmented_Generation)-A52A2A?style=for-the-badge&logo=tiny&logoColor=yellow)
 
 
 ### Engineering Expertise
