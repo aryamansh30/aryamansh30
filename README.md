@@ -40,26 +40,10 @@ CS @ Purdue (2027) + Psychology Minor → ML Researcher → Building interpretab
 - **2022:** High School Research Intern at IIT Chennai — Built AQI predictor (87.7% accuracy) using SVR & Time Series
 - **2023:** Mansik Ashriya — National AI competition winner, built an 80.1% accurate emotion classifier for CAMH
 
-### Fun Highlights
-- Published **two research papers** under prestigious institutions (IIT Chennai, AI School of India)
-- Won **India’s national AI competition** (60,000+ participants)
-- Collaborated with Bayer stakeholders via Agile + biweekly reviews
-- Designed apps improving **session management** and **multi-client performance**
-
-### Future PhD Interests
-- **Human-AI Interaction**: Modeling affective and cognitive behavior through real-time feedback systems
-- **Edge AI for Farming**: Yield optimization models running on low-resource edge devices
-- **Mental Health AI**: Scalable mental health tools for early detection and intervention
-
-### Blog Posts
-- *(Coming soon)* Predicting agricultural yield with ridge and lasso regression
-- *(Coming soon)* AI in adolescent mental health profiling: data, models, and bias
-
-### Life Principles
-- Build systems that **amplify human potential**, not replace it.
-- Code is craft — debug like a detective, build like an artist.
-- True intelligence lies in how we apply learning, not how much we know.
+### Certifications
+- **CLE - C Certified Entry-Level Programmer** 
+- **Programming Foundations with JavaScript, HTML and CSS** 
 
 ---
 
-Want to collaborate or learn more? [Email me](mailto:sharma.aryaman3003@gmail.com) or [connect on LinkedIn](https://www.linkedin.com/in/aryamansharma30/).
+Contact Info: sharma.aryaman3003@gmail.com
