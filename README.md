@@ -13,7 +13,7 @@
   <img src="assets/banner.gif" width=1024>
 </p>
 
-CS @ Purdue (2027) + Psychology Minor → ML Researcher → Building interpretable, scalable, and socially responsible AI systems.
+CS @ Purdue (2027) + Psychology Minor → AI/ML Enthusiast → Building interpretable, scalable, and socially responsible AI systems.
 
 ### Core Expertise
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0468F6?style=for-the-badge&logo=tiny&logoColor=white)
